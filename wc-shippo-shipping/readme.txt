@@ -2,9 +2,9 @@
 Contributors: OneTeamSoftware
 Tags: woocommerce, shipping method, validate address, address validation, Shippo, cart, shipping, ebay, amazon, marketplace, woocommerce shipping, Shippo shipping, woocommerce Shippo shipping, cart shipping rate, shipping rate
 Requires at least: 5.6
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 7.3
-Stable tag: 1.5.14
+Stable tag: 1.5.15
 Copyright: © 2024 FlexRC, 604-1097 View St, V8V 0G9, Canada. Voice 604 800-7879 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -117,6 +117,8 @@ Please [Contact Us](https://1teamsoftware.com/contact-us "1TeamSoftware") and we
 6. Live shipping rates in the cart
 
 == Changelog ==
+= 1.5.15 =
+* Updated compatibility
 = 1.5.14 =
 * Updated compatibility
 = 1.5.13 =
