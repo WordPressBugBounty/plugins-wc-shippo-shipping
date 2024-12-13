@@ -3,7 +3,7 @@
  * Plugin Name: Multi-Carrier Shippo Shipping Rates & Address Validation for WooCommerce
  * Plugin URI: https://wordpress.org/plugins/wc-shippo-shipping/
  * Description: Adds Shippo shippping methods to Woocommerce.
- * Version: 1.5.15
+ * Version: 1.5.16
  * Tested up to: 6.7
  * Requires PHP: 7.3
  * Author: OneTeamSoftware
@@ -33,6 +33,6 @@ require_once(__DIR__ . '/includes/autoloader.php');
 			__('Do you have any questions or requests?', 'wc-shippo-shipping'),
 			'https://wordpress.org/plugins/wc-shippo-shipping/', 
 			__('Do you like our plugin and can recommend to others?', 'wc-shippo-shipping')),
-		'1.5.15'
+		'1.5.16'
 	)
 )->register();
